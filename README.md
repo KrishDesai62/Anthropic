@@ -1,0 +1,3 @@
+Building with Claude API, a collection of sample notebooks from Anthropic's course on building applications with the Claude API. Covered core topics practiced throughout the course such as prompting fundamentals, extended thinking, tool use, prompt evaluations, RAG (chunking, embeddings, vector databases, BM25, hybrid search, citations), MCP, prompt caching, streaming, the code execution tool, the text editor tool, and web search.
+
+This push does not include dependencies or an API key. Install requirements ( anthropic, jupyter, python-dotenv) and add own ANTHROPIC_API_KEY (via a .env file or environment variable) before running the notebooks.
